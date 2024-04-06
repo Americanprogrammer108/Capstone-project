@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207585441824",
+    "project_id": "chatusers-9417f",
+    "storage_bucket": "chatusers-9417f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207585441824:android:6e8aa3b7e01f7f8006e445",
+        "android_client_info": {
+          "package_name": "com.example.capstone_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVWJLQFeu_Luq0OgjlVFZIjM6xgMtDcyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
